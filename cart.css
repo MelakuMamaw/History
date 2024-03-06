@@ -73,6 +73,12 @@ html,body{
   height: 400px;
   border-radius: 50%;
 }
+#w-shirt{
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+
 .footer-container{
   position: relative;
   align-items: center;
