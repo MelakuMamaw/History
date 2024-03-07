@@ -12,6 +12,9 @@ html,body{
   min-height: 100%;
   flex-direction: column;
 }
+.logo{
+  border-radius: 50%;
+}
 #header{
   display: flex;
   align-items: center;
