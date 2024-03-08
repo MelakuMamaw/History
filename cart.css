@@ -58,11 +58,12 @@ html,body{
 }
 #cart-img{
   position: relative;
-  width: 300px;
+  width: 200px;
   height: 200px;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  display:contents;
+  align-items: center;
   gap: 10px;
+  
   
 }
 #dead{
