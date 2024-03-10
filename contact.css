@@ -10,6 +10,7 @@ html,body{
   background-color: rgb(237, 232, 230);
   min-height: 100%;
   flex-direction: column;
+  font-size: 50px;
 }
 .logo{
   border-radius: 50%;
@@ -86,4 +87,14 @@ html,body{
 }
 .social-icons a:hover{
   color: rgb(235, 121, 14);
+}
+form{
+  text-align: center;
+  background-color: rgb(127, 228, 228);
+  height: 700px;
+  height: 700px;
+  font-size: 25px;
+}
+#f_name{
+  border-radius: 15px;
 }
