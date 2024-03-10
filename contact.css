@@ -32,12 +32,12 @@ html,body{
   padding: 0 20px;
   text-decoration: none;
   position: relative;
+  font-size: 17px;
 }
 #navbar li a{
   text-decoration: none;
   font-size: 16px;
   font-weight: 600;
-  color: #1a1a1a;
   border-radius: 10%;
   color: white;
 }
@@ -51,44 +51,14 @@ html,body{
   color: green;
 }
 
-
 .main{
   width: 90vw;
   margin: 0 auto;
   padding: 30px 20px;
   min-height: 100%;
+}
 
-
-}
-.footer-container{
-  position: relative;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px;
-  background-color:rgba(1, 15, 15, 0.895);
-  text-align: center;
-  position: relative;
-  clear: both;
-  margin-top: auto;
-  color: white;
-}
-.social-icons{
-  list-style: none;
-  display: inline-block;
-  margin: 20px;
-}
-.social-icons a{
-  background-color: rgb(255, 255, 255);
-  border-radius: 50%;
-  color: black;
-  padding: 10px;
-  border-radius: 60px;
-  font-size: 25px;
-}
-.social-icons a:hover{
-  color: rgb(235, 121, 14);
-}
-form{
+#form{
   text-align: center;
   background-color: rgb(63, 77, 75);
   height: 700px;
@@ -132,3 +102,31 @@ form{
     border-radius: 15px;
     background-color: orange;
   }
+.footer-container{
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color:rgba(1, 15, 15, 0.895);
+  text-align: center;
+  position: relative;
+  clear: both;
+  margin-top: auto;
+  color: white;
+}
+.social-icons{
+  list-style: none;
+  display: inline-block;
+  margin: 20px;
+}
+.social-icons a{
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  color: black;
+  padding: 10px;
+  border-radius: 60px;
+  font-size: 25px;
+}
+.social-icons a:hover{
+  color: rgb(235, 121, 14);
+}
