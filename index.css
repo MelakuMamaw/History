@@ -11,8 +11,7 @@ html,body{
   min-height: 100%;
   flex-direction: column;
   font-family: 'Courier New', Courier, monospace;
-  font-size: 14px;
-  font-weight: 600;
+  font-size: 19px;
 }
 .logo{
   border-radius: 50%;
@@ -34,7 +33,7 @@ html,body{
   padding: 0 20px;
   text-decoration: none;
   position: relative;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 #navbar li a{
@@ -44,7 +43,6 @@ html,body{
   color: #1a1a1a;
   border-radius: 10%;
   color: white;
-  font-size: 17px;
 }
 
 #navbar li a:hover,
@@ -61,7 +59,7 @@ html,body{
   margin: 0 auto;
   padding: 30px 20px;
   min-height: 100%;
-  background-image: url(images/king-ezana.jpeg);
+  background-image: url(images/tabot.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
