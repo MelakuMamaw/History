@@ -55,7 +55,7 @@ html,body{
   color: green;
 }
 .main{
-  width: 90vw;
+  width: 100%;
   margin: 0 auto;
   padding: 30px 20px;
   min-height: 100%;
